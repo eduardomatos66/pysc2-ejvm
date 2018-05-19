@@ -1,4 +1,4 @@
-Thanks to:
+My sincere thanks and admiration to:
 <ul>
 <li> <a href=https://github.com/deepmind/pysc2>PySC2</a></li>
 <li> <a href=http://deepmind.com>DeepMind</a></li>
